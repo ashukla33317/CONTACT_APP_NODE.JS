@@ -1,0 +1,20 @@
+{
+  "name": "my_conatct_backend_api",
+  "version": "1.0.0",
+  "description": "thise is backend project contact app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Aman Shukla",
+  "license": "BTECH",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
